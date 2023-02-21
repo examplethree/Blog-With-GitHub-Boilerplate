@@ -3,19 +3,19 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/MyBlog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
+    "name": "Example",
     "type": "local",
-    "path": "../Galileo"
+    "path": "../Example"
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "examplethree/Blog-With-GitHub-Boilerplate@srouce"
+    "repo": "examplethree/MyBlog@source"
 }
 
 # 站点设置
